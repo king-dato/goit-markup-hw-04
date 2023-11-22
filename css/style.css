@@ -1,7 +1,12 @@
+:root {
+  --raleway: 'raleway', sans-serif;
+  --open-sans: 'Open Sans', sans-serif;
+}
+
 body {
-  font-family: var(--Roboto-font);
-  color: var(--text);
-  background-color: var(--white-background);
+  font-family: 'roboto' sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 * {
   margin: 0;
@@ -12,7 +17,4 @@ ul {
 }
 address {
   font-style: normal;
-}
-:root{
-    --orange: 
 }
