@@ -1,10 +1,5 @@
-:root {
-  --raleway: 'raleway', sans-serif;
-  --open-sans: 'Open Sans', sans-serif;
-}
-
 body {
-  font-family: 'roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
