@@ -10,6 +10,19 @@ body {
   margin: 0;
   padding: 0;
 }
+.studio {
+  color: #2e2f42;
+}
+.li-nav-index {
+  list-style: none;
+}
+.studio_list {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 ul {
   list-style-type: none;
 }
@@ -99,12 +112,12 @@ address {
 .section1_portfolio {
   list-style: none;
 }
-.button_portfolio{
+.button_portfolio {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #4d5ae5;
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
