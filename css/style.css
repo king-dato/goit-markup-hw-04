@@ -86,7 +86,7 @@ address {
 }
 
 /* this content is portfolio */
-.nav_portfolio{
+.nav_portfolio {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -94,4 +94,17 @@ address {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+}
+/* for the section 1 in the main of the portfolio */
+.section1_portfolio {
+  list-style: none;
+}
+.button_portfolio{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #F4F4FD;
 }
