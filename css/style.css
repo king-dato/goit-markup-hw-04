@@ -26,6 +26,9 @@ body {
 ul {
   list-style-type: none;
 }
+.nav_index {
+  list-style: none;
+}
 address {
   font-style: normal;
 }
