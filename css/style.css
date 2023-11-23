@@ -32,8 +32,25 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.linknav:hover {
+  color: #404bbf;
+}
+.linknav:active {
+  color: #404bbf;
+}
 address {
   font-style: normal;
+}
+.info {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.info:hover {
+  color: #404bbf;
+}
+.info:active {
+  color: #404bbf;
 }
 .web {
   font-family: 'Raleway', sans-serif;
