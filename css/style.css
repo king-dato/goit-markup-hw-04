@@ -1,3 +1,6 @@
+:root {
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -13,7 +16,7 @@ ul {
 address {
   font-style: normal;
 }
-.hdi {
+.web {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
