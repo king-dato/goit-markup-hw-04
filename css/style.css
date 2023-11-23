@@ -31,3 +31,7 @@ address {
 .li {
   list-style: none;
 }
+
+.ftr {
+  background-color: #2e2f42;
+}
