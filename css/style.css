@@ -52,6 +52,7 @@ address {
 }
 .contact:focus {
   color: #404bbf;
+}
 
 .web {
   font-family: 'Raleway', sans-serif;
@@ -88,12 +89,11 @@ address {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.btn-sec:hover{
-  color: #404BBF;
-
+.btn-sec:hover {
+  color: #404bbf;
 }
-.btn-sec:focus{
-  color: #404BBF;
+.btn-sec:focus {
+  color: #404bbf;
 }
 
 .sectwo {
@@ -112,12 +112,11 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.sec-four{
-  background-color:#F4F4FD ;
+.sec-four {
+  background-color: #f4f4fd;
 }
-.firstl{
-  background-color: #FFFFFF;
-
+.firstl {
+  background-color: #ffffff;
 }
 .ftr {
   background-color: #2e2f42;
