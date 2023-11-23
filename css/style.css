@@ -39,12 +39,12 @@ ul {
 address {
   font-style: normal;
 }
-.contacts {
+.contact {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts:hover {
+.contact:hover {
   color: #404bbf;
 }
 
