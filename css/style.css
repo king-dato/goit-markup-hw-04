@@ -164,6 +164,7 @@ address {
   letter-spacing: 0.04em;
   color: #4d5ae5;
   background-color: #f4f4fd;
+  cursor: pointer;
 }
 .btnp:hover {
   color: #ffffff;
