@@ -156,7 +156,7 @@ address {
 .section1_portfolio {
   list-style: none;
 }
-.button_portfolio {
+.btnp {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -164,6 +164,15 @@ address {
   letter-spacing: 0.04em;
   color: #4d5ae5;
   background-color: #f4f4fd;
+}
+.btnp:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.btnp:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+  
 }
 .addr {
   font-style: normal;
