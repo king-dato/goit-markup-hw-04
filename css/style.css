@@ -191,7 +191,7 @@ address {
   color: #404bbf;
 }
 /* portfolio image Header and paragraph */
-.imgh {
+/* .imgh { 
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -203,7 +203,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
+}*/
 .ftrp {
   color: #f4f4fd;
 }
