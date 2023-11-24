@@ -1,6 +1,9 @@
 :root {
-
-  
+  --main-color: #434455;
+  --main-color2: #2e2f42;
+  --main-color3: #404bbf;
+  --font-family1: 'Roboto', sans-serif;
+  --font-family2: 'Raleway', sans-serif;
 }
 
 body {
