@@ -91,12 +91,13 @@ address {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
 .btn-sec:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .btn-sec:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .sectwo {
