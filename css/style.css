@@ -13,7 +13,20 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+/* index body css */
+.container-header {
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 
+.nav-header {
+  display: flex;
+  align-items: center;
+}
 .studio {
   color: #2e2f42;
 }
@@ -31,7 +44,11 @@ body {
 ul {
   list-style-type: none;
 }
-
+/* index nav  menu on header */
+.menu-menu {
+  display: flex;
+  gap: 40px;
+}
 .linknav {
   font-weight: 500;
   font-size: 16px;
@@ -45,7 +62,10 @@ ul {
 .linknav:focus {
   color: #404bbf;
 }
-
+.addr {
+  display: flex;
+  gap: 40px;
+}
 address {
   font-style: normal;
 }
@@ -63,6 +83,7 @@ address {
 .contacts {
   list-style: none;
 }
+/* logo css */
 .web {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
@@ -71,6 +92,7 @@ address {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 .link {
   text-decoration: none;
