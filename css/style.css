@@ -144,6 +144,14 @@ address {
 .sect-two {
   padding: 120px 0;
 }
+/* section 2 index */
+.head-sectiontwo {
+  margin-bottom: 8px;
+}
+.list-sectwo {
+  display: flex;
+  gap: 24px;
+}
 .sectwo {
   font-weight: 500;
   font-size: 20px;
