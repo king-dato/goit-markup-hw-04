@@ -45,7 +45,7 @@ ul {
   list-style-type: none;
 }
 /* index nav  menu on header */
-.menu-menu {
+.menu {
   display: flex;
   gap: 40px;
 }
@@ -55,6 +55,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .linknav:hover {
   color: #404bbf;
