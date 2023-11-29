@@ -5,7 +5,9 @@
   --font-family1: 'Roboto', sans-serif;
   --font-family2: 'Raleway', sans-serif;
 }
-
+.index-header {
+  border-radius: 1px solid #e7e9fc;
+}
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
