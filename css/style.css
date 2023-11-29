@@ -141,7 +141,9 @@ address {
 .btn-sec:focus {
   background-color: #404bbf;
 }
-
+.sect-two {
+  padding: 120px 0;
+}
 .sectwo {
   font-weight: 500;
   font-size: 20px;
