@@ -279,9 +279,6 @@ address {
   border-top: none;
 }
 
-.application-name-category h2 {
-  margin-bottom: 8px;
-}
 .list-portfolio {
   display: flex;
   justify-content: center;
