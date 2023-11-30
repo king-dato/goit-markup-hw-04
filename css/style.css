@@ -278,9 +278,7 @@ address {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
-.application-name-category .sect-two {
-  margin-bottom: 8px;
-}
+
 .list-portfolio {
   display: flex;
   justify-content: center;
