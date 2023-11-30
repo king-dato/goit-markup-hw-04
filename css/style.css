@@ -100,7 +100,6 @@ address {
 }
 .link {
   text-decoration: none;
-  display: inline;
 }
 .list {
   list-style: none;
@@ -219,7 +218,7 @@ address {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: inline;
+  display: inline-block;
   margin-bottom: 16px;
 }
 
