@@ -240,10 +240,23 @@ address {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  
 }
 
+/* porfolio main section */
+
 /* for the section 1 in the main of the portfolio */
+
+.list-portfolio {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
+}
+
+.portfolio-section {
+  padding-top: 96px;
+  padding-bottom: 120px;
+}
 .section1_portfolio {
   list-style: none;
 }
@@ -256,14 +269,20 @@ address {
   color: #4d5ae5;
   background-color: #f4f4fd;
   cursor: pointer;
+  padding: 12px 24px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
 }
 .btnp:hover {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 .btnp:focus {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
+
 }
 .addr {
   font-style: normal;
@@ -294,4 +313,9 @@ address {
   color: #f4f4fd;
   letter-spacing: 0.02em;
   max-width: 264px;
+}
+/* visibility-hidden */
+
+.visibility-hidden {
+  visibility: hidden;
 }
