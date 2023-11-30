@@ -201,11 +201,14 @@ address {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
+
+/* footer index */
 .firstl {
   background-color: #ffffff;
 }
 .ftr {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 .ftl {
   font-family: 'Raleway', sans-serif;
@@ -215,6 +218,8 @@ address {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  display: inline;
+  margin-bottom: 16px;
 }
 
 /* this content is portfolio */
@@ -272,8 +277,11 @@ address {
 .ftrp {
   color: #f4f4fd;
 }
+
+/* footer for index and portfolio */
 .ftr_paragraph {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
