@@ -333,6 +333,6 @@ address {
 }
 /* visibility-hidden */
 
-.visibility-hidden {
+h1.hidden {
   visibility: hidden;
 }
