@@ -271,7 +271,7 @@ address {
   row-gap: 48px;
 }
 .firstitem-list {
-  width: 370px;
+  width: 390px;
 }
 .application-name-category {
   padding: 32px 16px;
@@ -317,6 +317,7 @@ address {
   border: 1px solid transparent;
 }
 .portfolio-firstlist {
+  width: 370px;
 }
 
 /* portfolio image Header and paragraph */
