@@ -5,6 +5,7 @@
   --font-family1: 'Roboto', sans-serif;
   --font-family2: 'Raleway', sans-serif;
 }
+
 .index-header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -343,4 +344,9 @@ address {
 
 .hidden {
   visibility: hidden;
+}
+
+/* global */
+img {
+  style: block ;
 }
