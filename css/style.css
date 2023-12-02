@@ -275,9 +275,9 @@ address {
   width: calc((100% - 72px) / 4);
 }
 .list-list {
-  width: calc((100% - 3 * 16px) / 3);
+  width: calc((100% - 48px) / 3);
 }
-.list-listing {
+.fitem-list {
   width: calc((100% - 48px) / 3);
 }
 
