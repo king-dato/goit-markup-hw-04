@@ -342,7 +342,7 @@ address {
 }
 /* visibility-hidden */
 
-.hidden {
+.visually-hidden {
   visibility: hidden;
 }
 
