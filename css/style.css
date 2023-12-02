@@ -266,14 +266,7 @@ address {
 /* for the section 1 in the main of the portfolio */
 
 .portfolio-firstlist {
-  /* display: flex; 
-  flex-wrap: wrap;
-  column-gap: 24px;
-  row-gap: 48px;*/
-
-  list-style-type: none;
   display: flex;
-  align-items: flex-start;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
