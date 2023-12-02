@@ -272,7 +272,7 @@ address {
   row-gap: 48px;
 }
 
-.firstitem-list {
+.fil {
   width: calc((100% - 48px) / 3);
 }
 
