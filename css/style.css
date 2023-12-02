@@ -275,7 +275,7 @@ address {
   width: calc((100% - 72px) / 4);
 }
 .listing {
-  flex-basis: calc((100% - 48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 .firstlist-sectionfour {
   width: calc((100% - 72px) / 4);
