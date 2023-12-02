@@ -274,7 +274,10 @@ address {
 .listing-index {
   width: calc((100% - 72px) / 4);
 }
-.list-list{
+.list-list {
+  width: calc((100% - 48px) / 3);
+}
+.list-listing {
   width: calc((100% - 48px) / 3);
 }
 
