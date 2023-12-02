@@ -287,6 +287,9 @@ address {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
+.application-namecategory h2 {
+  margin-bottom: 8px;
+}
 
 .list-portfolio {
   display: flex;
