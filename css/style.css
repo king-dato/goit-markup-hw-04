@@ -335,6 +335,6 @@ address {
 }
 /* visibility-hidden */
 
-h1.hidden {
+.hidden {
   visibility: hidden;
 }
