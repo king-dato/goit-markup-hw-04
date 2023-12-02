@@ -348,5 +348,5 @@ address {
 
 /* global */
 img {
-  style: block ;
+  display: block;
 }
