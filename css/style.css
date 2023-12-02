@@ -273,7 +273,7 @@ address {
 }
 
 .fitem-list {
-  width: calc((100% - 48px) / 3);
+  width: calc((100% - 96px) / 3);
 }
 
 .listing-index {
