@@ -274,7 +274,7 @@ address {
 .listing-index {
   width: calc((100% - 72px) / 4);
 }
-.listing {
+.list-first{
   width: calc((100% - 48px) / 3);
 }
 
