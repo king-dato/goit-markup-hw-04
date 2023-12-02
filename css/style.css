@@ -270,7 +270,9 @@ address {
   column-gap: 24px;
   row-gap: 48px;
 }
-
+.listing-index {
+  width: calc((100% - 72px) / 4);
+}
 .listing {
   width: calc((100% - 48px) / 3);
 }
