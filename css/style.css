@@ -272,7 +272,6 @@ address {
   row-gap: 48px;
 }
 
-
 .fil {
   width: calc((100% - 48px) / 3);
 }
