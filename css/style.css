@@ -378,12 +378,23 @@ address {
   color: #ffffff;
   margin-bottom: 16px;
 }
-.Footer-ul {
+.footer-ul {
   display: flex;
   gap: 16px;
 }
 .firstlist-footer {
+  height: 40px;
   width: 40px;
+}
+
+.firstlist-footer:focus {
+  background-color: #31d0aa;
+}
+.socialfooter-svg {
+  fill: #f4f4fd;
+}
+.sociallink-footer {
+  width: 100%;
   height: 100%;
   background-color: #4d5ae5;
   border-radius: 50%;
@@ -391,15 +402,11 @@ address {
   align-items: center;
   justify-content: center;
 }
-.firstlist-footer:hover {
+.sociallink-footer:hover {
   background-color: #31d0aa;
 }
-.firstlist-footer:focus {
+.sociallink-footer:focus {
   background-color: #31d0aa;
-}
-.socialfooter-svg {
-  fill: #f4f4fd;
-
 }
 
 /* this content is portfolio */
