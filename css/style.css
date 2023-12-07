@@ -297,6 +297,51 @@ address {
 .ourteam-svg {
   fill: #f4f4fd;
 }
+
+/* fifth section */
+
+.fifth-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.fifthsection-header {
+  font-size: 36px;
+  line-height: 1.11;
+  color: #2e2f42;
+  margin-bottom: 72px;
+}
+
+.fifthsection-list {
+  display: flex;
+  gap: 24px;
+}
+.Fifthsection-item {
+  width: calc((100% - 120px) / 6);
+  height: 88px;
+}
+.fifthsection-link {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #8e8f99;
+}
+.fifthsection-link:hover {
+  border-color: #404bbf;
+}
+.fifthsection-link:focus {
+  color: #404bbf;
+}
+
+
+
+.fifthsection-svg{
+  fill: currentColor;
+}
 /* footer index */
 .firstl {
   background-color: #ffffff;
