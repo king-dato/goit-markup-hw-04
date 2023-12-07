@@ -300,7 +300,7 @@ address {
 
 /* fifth section */
 
-.fifth-section {
+.section {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -337,9 +337,7 @@ address {
   color: #404bbf;
 }
 
-
-
-.fifthsection-svg{
+.fifthsection-svg {
   fill: currentColor;
 }
 /* footer index */
