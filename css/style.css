@@ -337,7 +337,7 @@ address {
   color: #404bbf;
 }
 
-.fifthsection-item{
+.fifthsection-item {
   fill: currentColor;
 }
 /* footer index */
@@ -360,6 +360,46 @@ address {
   color: #4d5ae5;
   display: inline-block;
   margin-bottom: 16px;
+}
+.footer-element {
+  display: flex;
+  align-items: baseline;
+}
+.footer-logo {
+  margin-right: 120px;
+}
+.socialmedia-footer {
+}
+.socialmediatext-footer {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+.Footer-ul {
+  display: flex;
+  gap: 16px;
+}
+.firstlist-footer {
+  width: 40px;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.firstlist-footer:hover {
+  background-color: #31d0aa;
+}
+.firstlist-footer:focus {
+  background-color: #31d0aa;
+}
+.socialfooter-svg {
+  fill: #f4f4fd;
+
 }
 
 /* this content is portfolio */
