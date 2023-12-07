@@ -316,7 +316,7 @@ address {
   display: flex;
   gap: 24px;
 }
-.Fifthsection-item {
+.fifthsection-item {
   width: calc((100% - 120px) / 6);
   height: 88px;
 }
