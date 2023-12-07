@@ -285,7 +285,7 @@ address {
   border-radius: 50%;
   display: flex;
   align-items: center;
-  justify-content: horizontal;
+  justify-content: center;
 }
 .ourteam-socialmedia:hover {
   background-color: #404bbf;
