@@ -341,9 +341,11 @@ address {
   color: #8e8f99;
 }
 .fifthsection-link:hover {
+  border-color: #404bbf;
   color: #404bbf;
 }
 .fifthsection-link:focus {
+  border-color: #404bbf;
   color: #404bbf;
 }
 
