@@ -406,7 +406,12 @@ address {
   background-color: #31d0aa;
 }
 .socialfooter-svg {
-  fill: #f4f4fd;
+  fill: #f4f4fd; 
+  
+}
+
+.socialfooter-svg svg {
+  fill: currentColor;
 }
 .sociallink-footer {
   width: 100%;
@@ -444,10 +449,11 @@ address {
 
 .addr {
   font-style: normal;
-  /* justify-content: left; */
+  position: absolute;
+  right: 150px;
 }
 
-.portcon {
+/* .portcon { 
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -458,7 +464,7 @@ address {
 }
 .portcon:focus {
   color: #404bbf;
-}
+}*/
 /* porfolio main section */
 
 /* for the section 1 in the main of the portfolio */
@@ -569,4 +575,8 @@ address {
 /* global */
 img {
   display: block;
+}
+
+/* footer social meadia icon */
+.socialfooter-svg Svg {
 }
